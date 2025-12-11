@@ -1,8 +1,17 @@
 .Luft_til_luft_varmepumper {
     background-color: #10307C;
     color: white;
+
 }
 
+h1 {
+    font-family: Linden hill;
+}
+
+p {
+    font-family: Lato light;
+    font-size: 32px;
+}
 .img_pump {
     border-radius: 80%;
     height: 422px;
