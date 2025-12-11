@@ -1,7 +1,14 @@
 .Luft_til_luft_varmepumper {
     background-color: #10307C;
-    color: white;
 
+}
+
+.hw {
+    color: white;
+}
+
+.pw {
+    color: white;
 }
 
 h1 {
