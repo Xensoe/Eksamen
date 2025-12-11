@@ -9,9 +9,9 @@
 }
 
 .Text_box {
-    background-color: #10307C
+    background-color: #10307C;
      line-height: 1.5;
-
+    flex: 1;
 }
 
 .hw {
