@@ -11,6 +11,7 @@ img {
     border-radius:50%;
     height:442px;
     width:440px;
+    display: flex;
 }
 
 .button {
