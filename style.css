@@ -2,10 +2,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 80px 60px;
-    gap: 80px;
-    position: relative;
-    overflow: hidden;
+    padding: 40;
+    gap: 40px;
 }
 
 .Luft_til_luft_varmepumper {
