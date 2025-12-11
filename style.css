@@ -30,10 +30,21 @@ p {
     font-family: Lato light;
     font-size: 20px;
 }
+
 .img_pump {
     flex-direction: 0 0 350px;
     border-radius: 50%;
     height: 350px;
     overflow: hidden;
     margin-right: 60px;
+}
+
+.button {
+display: inline-block;
+background: #ffe6b3;
+padding: 18px 40px;
+border-radius: 45px;
+font-size: 20px;
+margin-top: 20px;
+transition: 0.25s;
 }
