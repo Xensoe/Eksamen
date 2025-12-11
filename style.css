@@ -1,6 +1,7 @@
 .Luft_til_luft_varmepumper {
     background-color: #10307C;
     color: white;
+    float: right;
 }
 
     h1 {
@@ -11,7 +12,7 @@
     border-radius:50%;
     height:442px;
     width:440px;
-    float: right;
+    float: left;
     
 }
 
