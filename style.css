@@ -27,10 +27,12 @@
 h1 {
     font-family: 'Linden Hill', serif;
     font-size: 46px;
+    font-weight: lighter;
 }
 
 p {
     font-family: 'Lato', light, sans-serif;
+    font-weight: lighter;
     font-size: 20px;
 }
 
